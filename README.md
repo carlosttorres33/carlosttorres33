@@ -1,7 +1,7 @@
 # HOLA!!! 👋
 ### Me llamo Carlos
 ### 📲 Soy Desarrollador Móvil 📲
-## Egresado de informática en la FCA, UNAM
+## Egresado de informática en la FCA, UNAM 🎓
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
