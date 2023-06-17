@@ -25,8 +25,7 @@ Me encanta la programación y busco hacer de esta mi trabajo, el desarrollo móv
 
 
 ------
-Credit: [SayantaniDeb](https://github.com/SayantaniDeb)
-Last Edited on: 21/09/2021 
+## 🔰🔰Aquí debajo puedes ver mis proectos más relevantes🔰🔰
 
 <!--
 **carlosttorres33/carlosttorres33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
