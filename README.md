@@ -21,7 +21,7 @@ Me encanta la programación y busco hacer de esta mi trabajo, el desarrollo móv
 
 
 ## Contactame 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/carlosttorres33)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/carlosurieltoraltorres/)  
+![Static Badge](https://img.shields.io/badge/LinkedIn-Carlos_Toral-blue?logo=LinkedIn&labelColor=blue&color=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcarlosurieltoraltorres%2F) 
 
 
 ------
