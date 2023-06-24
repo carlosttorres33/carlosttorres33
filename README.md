@@ -47,6 +47,7 @@ Y alguna más...
 
 ## Proyectos de Musica 
 [![YouTube](https://img.shields.io/badge/YouTube-ArehzBeats-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@arehzmusic)
+[![Spotify](https://img.shields.io/badge/Arehz_x_Bass-3DDC84?style=for-the-badge&logo=spotify&logoColor=white&labelColor=101010)](https://open.spotify.com/artist/2c3vjdp6wmT1cRS5ujbqzW)
 [![YouTube](https://img.shields.io/badge/YouTube-Arehz_x_Bass-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@arehzxbass3697)
 
 ------
