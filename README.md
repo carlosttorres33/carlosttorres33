@@ -13,7 +13,7 @@ Me encanta la programación y busco hacer de esta mi trabajo, el desarrollo móv
 
 -  **Lenguajes :** Kotlin | Swift | C | Python    
 -  **Herramientas :** Firebase, Dagger Hilt, Jetpack Compose, XML
--  **Hobbies :** Basketbol :basketball: & Musica :headphones:
+-  **Hobbies :** Basketbol :basketball: & Producción Musical :headphones:
 -  **Fact :** Pienso luego codifico :heart:
 
 ## Tecnologías:
@@ -35,8 +35,11 @@ Y alguna más...
 
 
 ## Contactame 
-![Static Badge](https://img.shields.io/badge/LinkedIn-Carlos_Uriel_Toral_Torres-blue?logo=LinkedIn&labelColor=blue&color=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcarlosurieltoraltorres%2F) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Uriel_Toral_Torres-101010?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/carlosurieltoraltorres/)
 
+## Proyectos de Musica 
+[![YouTube](https://img.shields.io/badge/YouTube-ArehzBeats-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@arehzmusic)
+[![YouTube](https://img.shields.io/badge/YouTube-Arehz_x_Bass-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@arehzxbass3697)
 
 ------
 ## 🔰🔰Aquí debajo puedes ver mis proectos más relevantes🔰🔰
