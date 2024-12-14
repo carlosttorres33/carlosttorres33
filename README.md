@@ -30,6 +30,7 @@ Me encanta la programación y busco hacer de esta mi trabajo, el desarrollo móv
 Y alguna más...
 
 ## Cursos con Certificado 
+[![Android](https://img.shields.io/badge/Jetpack_Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](https://drive.google.com/file/d/1_tb7oDLM_GzLyA8ZlwBP-hlKCfxT_zBT/view?usp=drivesdk)
 [![Android](https://img.shields.io/badge/Jetpack_Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-7908ef01-f69e-461b-993d-dd1a6eb9560a.pdf)
 [![Kotlin](https://img.shields.io/badge/Kotlin_mvvm:_Android_y_firebase-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0ed47b53-c19d-47ed-ba5a-af6fa8f49eb4.pdf)
 [![Android](https://img.shields.io/badge/Curso_para_aprender_a_programar_en_android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-ad51d249-006e-42e1-8e6d-fd01c843497b.pdf)
